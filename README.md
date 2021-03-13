@@ -1,2 +1,2 @@
 # DreamChild
-a girl who is able to be herself inside her dreams
+ a girl who can be herself in her dreams
