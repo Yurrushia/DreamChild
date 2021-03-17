@@ -47,7 +47,7 @@ public class PlayerController001 : MonoBehaviour
             timemanager.StopTime();
             Debug.Log("stop");
         }
-        if(Input.GetKeyDown(KeyCode.Q) && timemanager.TimeIsStopped) 
+        if(Input.GetKeyDown(KeyCode.E) && timemanager.TimeIsStopped) 
         {
             timemanager.ContinueTime();
 
